@@ -1,0 +1,1 @@
+document.getElementById('div01').innerText = 'Não vai dar caca na div01';
